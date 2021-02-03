@@ -19,7 +19,7 @@ Details for Milestone are available on Canvas (left sidebar, Course Project) or 
 
 - Kyle Nelwan: Living on campus for 2 years straight
 - Emiel Van Der Poel: one sentence about you!
-- Noah Ward: one sentence about you!
+- Noah Ward: Fourth year environmental science, hockey and snowboarding lover.
 
 ## References
 
