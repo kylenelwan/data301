@@ -13,7 +13,10 @@ Details for Milestone are available on Canvas (left sidebar, Course Project) or 
 
 ## Describe your dataset in about 150-200 words
 
-{Add your stuff here}
+The Adult Incomes data is provided by Ronny Kohavi and Barry Becker from Silicon Graphics. The data illustrates how various factors such as gender, race, age, and other backgrounds affect the yearly income of people of numerous backgrounds. The author's objective is to predict and determine whether a person would make a $50,000 or more yearly income based on the classifications of their background given from census data. The dataset is also known as the "Census Income" dataset. The dataset was published on the first of June, 1996 but was extracted by Barry Becker in 1994 in The United States of America. It identifies people with 16 different variables and later evaluates the standing of each classification. In the data given, it is stated that there are 3 controls: 
+1. A single-cell estimate of the population 16+ for each state
+2. Controls for Hispanic Origin by age and gender
+3. Controls by race, age, and gender 
 
 ## Team Members
 
@@ -23,4 +26,5 @@ Details for Milestone are available on Canvas (left sidebar, Course Project) or 
 
 ## References
 
-{Add your stuff here}
+https://archive.ics.uci.edu/ml/datasets/adult
+https://www.aaai.org/Papers/KDD/1996/KDD96-033.pdf
