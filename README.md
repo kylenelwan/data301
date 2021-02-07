@@ -9,7 +9,7 @@ Details for Milestone are available on Canvas (left sidebar, Course Project) or 
 
 ## Describe your topic/interest in about 150-200 words
 
-{Add your stuff here}
+We hope to be able to analyze which classification plays a significant role in determining a person's yearly income based on their background specification such as age, gender, ethnicity, etc. With such data, we could see if the action towards the salary of a person fair and reasonable due to their level of efficiency in the workplace or based around their background which could result in a clear showing of discrimination whether if its racism, sexism, or another belittling approach of a personal origin. Since the data given are just basically classification without any clear context, it is hard to establish accurate reasoning of the result, and also since the data is around 25 years old, the same reasoning could not be used in today's standing of the social and political climate. The data is possible to be illustrated in a dashboard form, focusing on informing how the differences in the background would affect the incomes of workers and the size of workers based on their classification.
 
 ## Describe your dataset in about 150-200 words
 
