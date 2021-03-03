@@ -1,1 +1,2 @@
-Noah's progress are stored in here
+###**READ ME**
+All *Noah's* progress are stored here

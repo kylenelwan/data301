@@ -1,1 +1,2 @@
-Emiel's progress are stored in here
+###**READ ME**
+All *Emiel's* progress are stored here

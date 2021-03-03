@@ -1,5 +1,4 @@
 <<<<<<< HEAD
-Stock of images to be use are in hre
 =======
 ###**READ ME**
 Stock of *images* to be use are save here 

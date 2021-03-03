@@ -1,1 +1,2 @@
-## This is where the data will go
+###**READ ME**
+This is where the *data* we pick will be stored.

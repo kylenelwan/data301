@@ -1,1 +1,2 @@
-Kyle's progress are stored in here
+###**READ ME**
+All *Kyle's* progress are stored here
