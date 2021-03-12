@@ -27,3 +27,6 @@ def load_and_process_two(url_or_path):
     )
     
     return df1
+
+def find_and_replace(dataframe, column_name, find, replace):
+    dataframe[column_name] = dataframe[column_name].str.replace(find, replace, regex=True)
