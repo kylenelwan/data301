@@ -2,8 +2,11 @@
 
 Noah Final Dashboard Link - https://us-west-2b.online.tableau.com/#/site/data301/workbooks/346859?:origin=card_share_link
 
+## Project Presentation Link
+https://youtu.be/fyVrIUfR_h8
+-----------------------------------------------
+
 # Group 1006 - Adult Salary Data Analysis
->>>>>>> 7daf39f31afbb3ff3aabefd65cddae0c6e1614c4
 
 ## Milestones
 
@@ -22,15 +25,10 @@ The Adult Incomes data is provided by Ronny Kohavi and Barry Becker from Silicon
 
 ### Team Members
 
-<<<<<<< HEAD
-- Kyle Nelwan: Living on campus since september 2019
-- Noah Ward: one sentence about you!
-- Emiel Van Der Poel: one sentence about you!
-=======
 - Kyle Nelwan: Living on campus for 2 years straight
 - Emiel Van Der Poel: Doing my second undergrad at UBCO
 - Noah Ward: Fourth year environmental science, hockey and snowboarding lover.
->>>>>>> 7daf39f31afbb3ff3aabefd65cddae0c6e1614c4
+
 
 ## References
 
